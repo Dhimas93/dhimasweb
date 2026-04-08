@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-color: #ffb3b3; /* Pink muda */
+    background-color: #2C3E50;
     padding: 40px 20px;
 }
 
@@ -20,7 +20,7 @@ header h1 {
 }
 
 nav {
-    background-color: #b8d9a0; /* Hijau muda */
+    background-color: #3498DB;
     padding: 10px 20px;
 }
 
